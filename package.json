@@ -1,0 +1,25 @@
+{
+  "name": "banking_system_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "banking_system_3": "^1.0.0",
+    "banking_system3": "^1.0.0",
+    "inquirer": "^9.1.4",
+    "node": "^19.3.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.15",
+    "@types/validator": "^13.7.10"
+  }
+}
